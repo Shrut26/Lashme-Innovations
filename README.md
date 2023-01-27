@@ -2,7 +2,7 @@
 
 <strong>Installation</Strong>
 - Clone this repository
-- run ```npm install`` to install the dependencies
+- run ```npm install``` to install the dependencies
 - finally run ```npm start``` to start the server
 
 <hr>
