@@ -11,5 +11,5 @@ mongodb();
 
 app.use(express.json());
 app.use("/users", userRoutes);
-app.use("/blogs ", blogRoutes);
+app.use("/blogs", blogRoutes);
 app.listen(5000, console.log("Server is running at 5000 port"));
